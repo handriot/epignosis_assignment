@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+    background-color: #F8F8FF;
+}
+
+.header{
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.error {
+	color: red;
+}
+
+/* index.php */
+.loginpage {
+    padding: 10px;
+}
+
+.loginButton {
+    display: block;
+    margin: 0px auto;
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+/* vacation_form.php */
+.titleform {
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+    margin-top: 25px; 
+    font-size: 20px;
+}
+
+.requestBtn {
+    display: block;
+    margin: 0px auto 25px;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;  
+}
+
+.fa-calendar {
+    font-size: 25px;
+    padding: 5px;
+}
+
+.logout {
+	text-align: right;
+	font-size: 18px;
+}
+
+/* usercreation.php */
+.usercreationBtn {
+	display: block;
+    margin: 0px auto 25px;
+    width: 25%;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px;	
+}
+
+.usercreationBtn a{
+	color: white;
+}
+
+.usercreationBtn a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+
